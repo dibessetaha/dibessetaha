@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Node js, express and next js**
 
-- 💬 Ask me about **nodejs, monodb**
+- 💬 Ask me about **nodejs, mongodb**
 
 - 📫 How to reach me **dibessetaha@gmail.com**
 
