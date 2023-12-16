@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taha Dibesse</h1>
-<h3 align="center">Software engineering student</h3>
+<h3 align="center">Java Junior Developer & Cyber Security Student </h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibessetaha&label=Profile%20views&color=0e75b6&style=flat" alt="dibessetaha" /> </p>
@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Fiver](https://Fiver.com/)
 
-- 🌱 I’m currently learning **Node js, express and next js**
+- 🌱 I’m currently learning **Java ee, EJB, JPA, JSF**
 
-- 💬 Ask me about **nodejs, mongodb**
+- 💬 Ask me about **Java, J2EE, Wildfly, Web Container, EJB Container, EJB, JSF and more**
 
 - 📫 How to reach me **dibessetaha@gmail.com**
 
