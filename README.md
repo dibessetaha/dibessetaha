@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java ee, EJB, JPA, JSF**
 
-- 💬 Ask me about **Java, J2EE, Wildfly, Web Container, EJB Container, EJB, JSF and more**
+- 💬 Ask me about **Java, J2EE, Wildfly, Web Container, EJB Container, EJB, JSF, Spring MVC, JPA, Spring boot and more**
 
 - 📫 How to reach me **dibessetaha@gmail.com**
 
