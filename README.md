@@ -1,30 +1,122 @@
-<h1 align="center">Hi 👋, I'm Taha Dibesse</h1>
-<h3 align="center">Java Junior Developer & Cyber Security Student </h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" >
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Taha+Dibesse;Java+Software+Architect;PLM+Migration+Specialist" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dibessetaha&label=Profile%20views&color=0e75b6&style=flat" alt="dibessetaha" /> </p>
+<h3 align="center">Junior Software Architect @ Dassault Systèmes | CESI Engineering Student</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [Fiver](https://Fiver.com/)
-
-- 🌱 I’m currently learning **Java ee, EJB, JPA, JSF**
-
-- 💬 Ask me about **Java, J2EE, Wildfly, Web Container, EJB Container, EJB, JSF, Spring MVC, JPA, Spring boot and more**
-
-- 📫 How to reach me **dibessetaha@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dibesse1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dibesse1" height="30" width="40" /></a>
-<a href="https://instagram.com/10bstaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="10bstaha" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dibessetaha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dibessetaha&show_icons=true&locale=en&layout=compact" alt="dibessetaha" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibessetaha&show_icons=true&locale=en" alt="dibessetaha" /></p>
+I'm a **Junior Software Architect** specializing in **PLM Data Migration** at **Dassault Systèmes EUROWEST**, currently completing my engineering degree through a 2-year apprenticeship program with CESI.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibessetaha&" alt="dibessetaha" /></p>
+- 🔭 Working on **PLM data migration tools** using Java, CML/XSD schemas, and enterprise architecture
+- 🏢 Building migration frameworks and automation tools at **Dassault Systèmes**
+- 🎓 Pursuing **Master's in Software Engineering** at CESI (2025-2026)
+- 🌱 Deep diving into **Spring Boot microservices**, enterprise Java, and DevOps practices
+- 💼 3+ years of experience delivering **50+ projects** for enterprise clients
+- 💡 Passionate about **software quality**, **Agile methodologies**, and **performance optimization**
+
+---
+
+### 💼 Professional Experience
+
+**Junior Software Architect - PLM Data Migration** @ Dassault Systèmes EUROWEST  
+*Feb 2025 - Present | Vélizy-Villacoublay, France*
+- Developing migration tools using Java, CML/XSD schemas
+- Building automated data transformation pipelines
+- Working with enterprise PLM systems architecture
+
+**Freelance Software Developer** @ Fiverr  
+*Feb 2022 - Feb 2024*
+- Delivered 50+ projects (web apps, backend systems) using Java EE, Spring, Angular
+- Mastered Java ecosystem: Maven/Gradle, Tomcat/JBoss, design patterns
+- Implemented RESTful APIs with Swagger documentation
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**
+```
+Java • J2EE • Spring Boot • Spring MVC • Spring Batch
+Angular • TypeScript • JavaScript
+```
+
+**Backend & Persistence**
+```
+Hibernate • JPA • Spring Data
+PostgreSQL • MySQL • ElasticSearch • Redis
+```
+
+**DevOps & Tools**
+```
+Docker • Jenkins • Git • Maven • Gradle
+REST API • Swagger • JUnit • Postman
+```
+
+**Methodologies**
+```
+Agile • SCRUM • TDD • Microservices Architecture
+```
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dibessetaha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibessetaha&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dibessetaha&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🔥 Recent Projects
+
+**CanBankX** - Spring Boot Microservices Banking Platform
+- JWT authentication & Redis caching
+- Comprehensive REST API with Swagger docs
+- Microservices architecture with Spring Cloud
+
+**TaskControl** - ASP.NET Core Project Management
+- Full-stack project management application
+- RESTful API design & implementation
+
+**Big Data Pipeline** - Apache Ecosystem
+- Airflow orchestration, Kafka streaming
+- MongoDB & PostgreSQL integration
+- Docker containerization
+
+---
+
+### 📫 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dibesse1/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dibessetaha@gmail.com)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/)
+
+</div>
+
+---
+
+### 🌍 Languages
+
+🇲🇦 **Arabic** - Native (C2)  
+🇫🇷 **French** - Advanced (C1)  
+🇬🇧 **English** - Upper Intermediate (B2)
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
