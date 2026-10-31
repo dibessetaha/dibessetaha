@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Taha+Dibesse;Java+Software+Architect;PLM+Migration+Specialist" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Junior Software Architect @ Dassault Systèmes | CESI Engineering Student</h3>
+<h3 align="center">Software Architect </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dibessetaha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
